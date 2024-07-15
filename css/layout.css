@@ -1,16 +1,39 @@
 /* css */
 
+* {
+	padding: 0;	
+	margin: 0;
+	box-sizing: border-box;
+}
 
+/*
+ * {
+	 border:  1px dashed black;
+ }
+ */
 
+body {
+	background-color: #987D9A;
+}
 
+.center-layout-header {
+	margin: 0 auto;
+	width: 900px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	margin-top: 38px;
+}
 
-
-
-
-
-
-
-
+.center-layout {
+	margin: 0 auto;
+	width: 900px;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 14px;
+	margin-top: 38px;
+}
 
 
 

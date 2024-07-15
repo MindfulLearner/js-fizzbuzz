@@ -17,10 +17,14 @@ Applica stili differenti agli elementi aggiunti al DOM nel BONUS 1, a seconda ch
 se 3 stampare fizz 
 se 5 stampare buzz
 
+## CONSIDERAZIONI PARTICOLARI 
+// Fine programma 
+// Considerazioni personali, non ho usato calc e non ho usatpcol o altro. gaps e un po calcolato.. mhm
+// forse ho barato un po con i gap perche non essendo responsive potrbbe anche creare [roblematiche mhm.....
 
-
-
-
+### Pensiero personale 
+non mi piace come l'ho fatto troppo workaround su HTML
+avrei potuto usare meno linee di codice se avessi usato &&
 
 
 
